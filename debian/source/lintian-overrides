@@ -1,0 +1,5 @@
+python-referencing source: file-without-copyright-information
+python-referencing source: no-debian-changes
+python-referencing source: source-contains-prebuilt-windows-binary
+python-referencing source: source-is-missing
+python-referencing source: source-package-encodes-python-version
